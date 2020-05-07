@@ -84,6 +84,6 @@ Network Parameters : 4,653
 I was able to move my car on non sand but failed to understand why my car spins while moving, my network have reached it destination few times but most of the time after moving for a while it just hanged at one particular point. My networks required additional parameters to to stabilize the car but not sure what are the additional parameters needed or is it because of max_action or the way I assign rewards. But would love experiment further to find out how to acheive the required target
 
 
-[![IMAGE ALT TEXT HERE](https://github.com/toniqapps/EVA-PHASE2/blob/master/P2S10/Screen%20Shot%202020-05-07%20at%2011.05.09%20PM.png)](https://www.youtube.com/watch?v=iN_8CKv2BDc)
+[![](http://img.youtube.com/vi/iN_8CKv2BDc/0.jpg)](http://www.youtube.com/watch?v=iN_8CKv2BDc "Auto Car")
 
 
