@@ -59,10 +59,14 @@ Experiment 15: After several attempts with cropped image I was not able acheive 
 Experiment 16: I decided to pass orientation as input to the network so that network tries to output action which directs car to the target, after several attempts of optimizing the network by reducing the parameters, i was able to make the car move on the non sand but the movement was not stable the car use spin continously while moving on non sand, I tried different reward values, increasing and decreasing max_action but was never able to make my car stable. My network is able to differentiate between sand and non sand and able to move the car on non sand but I am not sure how to stop car spinning while moving. Below are certain experiment from my final network![Screen Shot 2020-05-07 at 9.55.38 PM.png](:storage/ab1d39f5-6966-48f2-baee-c019450b14fe/09e402de.png)
 
 ![Image description](https://github.com/toniqapps/EVA-PHASE2/blob/master/P2S10/Screen%20Shot%202020-05-07%20at%209.55.38%20PM.png)
-![Screen Shot 2020-05-07 at 9.55.43 PM.png](:storage/ab1d39f5-6966-48f2-baee-c019450b14fe/cd409798.png)
-![Screen Shot 2020-05-07 at 9.55.48 PM.png](:storage/ab1d39f5-6966-48f2-baee-c019450b14fe/207ec264.png)
-![Screen Shot 2020-05-07 at 9.55.56 PM.png](:storage/ab1d39f5-6966-48f2-baee-c019450b14fe/138aa96e.png)
-![Screen Shot 2020-05-07 at 9.56.14 PM.png](:storage/ab1d39f5-6966-48f2-baee-c019450b14fe/6135a944.png)
+
+![Image description](https://github.com/toniqapps/EVA-PHASE2/blob/master/P2S10/Screen%20Shot%202020-05-07%20at%209.55.43%20PM.png)
+
+![Image description](https://github.com/toniqapps/EVA-PHASE2/blob/master/P2S10/Screen%20Shot%202020-05-07%20at%209.55.48%20PM.png)
+
+![Image description](https://github.com/toniqapps/EVA-PHASE2/blob/master/P2S10/Screen%20Shot%202020-05-07%20at%209.55.56%20PM.png)
+
+![Image description](https://github.com/toniqapps/EVA-PHASE2/blob/master/P2S10/Screen%20Shot%202020-05-07%20at%209.56.14%20PM.png)
 
 <b>Parameters</b>
 Non Sand Reward : -1
